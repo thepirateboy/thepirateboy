@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 Rafi here. <br>
 Currently I'm looking to collaborate on any project, I can handle any front-end or back-end part as long as they are in my skill list bellow.<br>
 <br>
-I'm also focussing on learning UX designing on <strong><em>Figma</em></strong> & <strong><em>Adobe XD</em></strong> these days as my "personal exercise", since I had realised that I couldn't make front-end side (UI) without someone giving me the UX design.
+I'm also focussing on learning web3 and dApps things these days.
 <br>
 <br>
 <br>
