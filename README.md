@@ -9,9 +9,6 @@ You can click the Preview link to take a look at your changes.
     <img src="https://drive.google.com/uc?export=view&id=11CpTo9NiGycnVKOCdVNZ3GSBdh0OLdNg" height="300" alt="">
 </p>
 
-<h1 align="center" size="50px">
-    Rafi
-</h1>
 <p align="center" size="50px">
 Dev goes brrr haha
     <br>
