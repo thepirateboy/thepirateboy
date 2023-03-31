@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center" size="50px">
 Dev goes brrr haha
     <br>
-    [yaeyx.com](https://yaeyx.com)
+    https://yaeyx.com
 </p>
